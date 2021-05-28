@@ -1,2 +1,3 @@
 # pyprojects
-Some things I made once upon a time
+Just a few small projects for practice and reference.
+
