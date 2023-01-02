@@ -1,7 +1,0 @@
-CREATE TABLE `Item` (
-	`ItemID`	INTEGER PRIMARY KEY AUTOINCREMENT,
-	`Name`	TEXT,
-	`Weight`	REAL,
-	`Quantity`	INTEGER,
-	`DeliveryStatus`	INTEGER DEFAULT 0
-);
